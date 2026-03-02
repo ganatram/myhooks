@@ -3,7 +3,7 @@
 useEffect hook - 'manage component side-effects'. 
 
                  when something happens outside of the component 
-                 the component wants to react(run some local function or code )
+                 the component wants to respond (run some local function or code )
 
         useEffect( ()=>{},[array of dependencies]); 
 
@@ -12,4 +12,6 @@ useEffect hook - 'manage component side-effects'.
                   - the first time the component gets loaded/launched 
 
                   - when any dependency goes through the state change 
+
+
 
